@@ -9,6 +9,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.linear_model import LogisticRegression
 
 # --- Styling ---
+# Using HTML and CSS
 st.markdown("""
     <style>
         body {
